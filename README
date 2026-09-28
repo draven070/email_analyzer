@@ -1,0 +1,45 @@
+# 🛡️ Phishing Detection & Email Threat Analyzer
+
+> 🚧 **Status: Under Construction**
+
+A cybersecurity project focused on analyzing emails to identify potential **phishing attempts and other email-based threats**.
+
+The system is being developed to analyze different aspects of an email, including:
+
+* 📧 Email headers
+* 🔐 SPF, DKIM, and DMARC authentication
+* 🔗 URLs and domains
+* 📎 Email attachments
+* 🔎 Indicators of Compromise (IOCs)
+* 🌐 Threat intelligence and reputation information
+* 🤖 NLP/ML-based suspicious email classification
+
+The analyzed information will be combined to generate a **risk score** and provide security analysts with useful information about why an email may be considered suspicious.
+
+### 🔬 Planned Workflow
+
+```text
+Email
+  │
+  ├── Header Analysis
+  ├── SPF / DKIM / DMARC
+  ├── URL & Domain Analysis
+  ├── Attachment Analysis
+  ├── IOC Extraction
+  └── Reputation Analysis
+          │
+          ▼
+    NLP / ML Analysis
+          │
+          ▼
+       Risk Score
+          │
+          ▼
+    Analyst Dashboard
+```
+
+The project is currently **under active development**, and additional analysis capabilities, machine-learning functionality, threat-intelligence integrations, and dashboard features will be added progressively.
+
+### 🎯 Goal
+
+The goal of this project is to build an **automated and explainable email threat-analysis platform** that can assist security analysts in identifying and investigating suspicious emails.
