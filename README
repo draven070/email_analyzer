@@ -1,8 +1,8 @@
-# 🛡️ Phishing Detection & Email Threat Analyzer
+ Phishing Detection & Email Threat Analyzer
 
-> 🚧 **Status: Under Construction**
+> 🚧 Status: Under Construction
 
-A cybersecurity project focused on analyzing emails to identify potential **phishing attempts and other email-based threats**.
+A cybersecurity project focused on analyzing emails to identify potential {phishing attempts and other email-based threats}.
 
 The system is being developed to analyze different aspects of an email, including:
 
@@ -14,11 +14,11 @@ The system is being developed to analyze different aspects of an email, includin
 * 🌐 Threat intelligence and reputation information
 * 🤖 NLP/ML-based suspicious email classification
 
-The analyzed information will be combined to generate a **risk score** and provide security analysts with useful information about why an email may be considered suspicious.
+The analyzed information will be combined to generate a {risk score} and provide security analysts with useful information about why an email may be considered suspicious.
 
-### 🔬 Planned Workflow
+🔬 Planned Workflow
 
-```text
+
 Email
   │
   ├── Header Analysis
@@ -36,10 +36,10 @@ Email
           │
           ▼
     Analyst Dashboard
-```
 
-The project is currently **under active development**, and additional analysis capabilities, machine-learning functionality, threat-intelligence integrations, and dashboard features will be added progressively.
 
-### 🎯 Goal
+The project is currently {under active development}, and additional analysis capabilities, machine-learning functionality, threat-intelligence integrations, and dashboard features will be added progressively.
 
-The goal of this project is to build an **automated and explainable email threat-analysis platform** that can assist security analysts in identifying and investigating suspicious emails.
+🎯 Goal
+
+The goal of this project is to build an {automated and explainable email threat-analysis platform} that can assist security analysts in identifying and investigating suspicious emails.
